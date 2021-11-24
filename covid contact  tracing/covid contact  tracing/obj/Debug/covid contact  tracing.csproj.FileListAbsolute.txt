@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\covid contact  tracing\covid contact  tracing\bin\Debug\covid contact  tracing.exe.config
+C:\Users\user\source\repos\covid contact  tracing\covid contact  tracing\bin\Debug\covid contact  tracing.exe
+C:\Users\user\source\repos\covid contact  tracing\covid contact  tracing\bin\Debug\covid contact  tracing.pdb
+C:\Users\user\source\repos\covid contact  tracing\covid contact  tracing\obj\Debug\covid contact  tracing.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\covid contact  tracing\covid contact  tracing\obj\Debug\covid_contact__tracing.Form1.resources
+C:\Users\user\source\repos\covid contact  tracing\covid contact  tracing\obj\Debug\covid_contact__tracing.Properties.Resources.resources
+C:\Users\user\source\repos\covid contact  tracing\covid contact  tracing\obj\Debug\covid contact  tracing.csproj.GenerateResource.cache
+C:\Users\user\source\repos\covid contact  tracing\covid contact  tracing\obj\Debug\covid contact  tracing.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\covid contact  tracing\covid contact  tracing\obj\Debug\covid contact  tracing.exe
+C:\Users\user\source\repos\covid contact  tracing\covid contact  tracing\obj\Debug\covid contact  tracing.pdb

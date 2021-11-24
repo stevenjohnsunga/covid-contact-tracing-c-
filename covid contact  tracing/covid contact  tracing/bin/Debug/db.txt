@@ -1,0 +1,6 @@
+Name: asd
+Age: as
+Contact: das
+Gender: 
+Have you traveled outside the country anytime from August 2021 until now? yes
+Symptoms: none
